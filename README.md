@@ -26,7 +26,7 @@ The gimbal camear used in this project looks like pictures bellow.
 <table  align="center">
     <tr>
     <td ><center>
-        <img src="assets/20220114-e0917cd4.png" alt="Real Camera" width="200"/><img src="assets/gimbal-camera.png" alt="Flow Diagram" width="200" />
+        <img src="assets/20220114-e0917cd4.png" alt="Real Camera" width="200"/><img src="assets/gimbal-camera.png" alt="gimbal camera" width="200" />
     </td ></center>
     </tr>
 </table>
