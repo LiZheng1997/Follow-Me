@@ -22,9 +22,10 @@ According to the definition of "Follow Me" functionality, we want our robots(Pix
 ### Gimbal Camera
 
 The gimbal camear used in this project looks like pictures bellow.
+
+
 <center class="half">
-<img src="assets/20220114-e0917cd4.png" alt="Real Camera" style="zoom:50%;" />
-<img src="assets/gimbal-camera.png" alt="Flow Diagram" style="zoom:50%;" />
+<img src="assets/20220114-e0917cd4.png" alt="Real Camera" width="200"/><img src="assets/gimbal-camera.png" alt="Flow Diagram" width="200" />
 </center>
 
 ## Software Requirements
@@ -33,9 +34,13 @@ The gimbal camear used in this project looks like pictures bellow.
 3. Docker
 
 # A flow diagram
+
+<center>
 <img src="assets/SOT-tracking-diagram.png" alt="Flow Diagram" style="zoom:50%;" />
+</center>
 
 ## Detection, Tracking and Visual Control
+
 <center class="half">
     <img src="assets/20220116-76d60e91.png" width="200"/><img src="assets/20220116-3b5f0f20.png" width="200"/><img src="assets/20220116-67901f3c.png" width="200"/>
 </center>
