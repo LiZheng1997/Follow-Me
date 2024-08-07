@@ -23,10 +23,14 @@ According to the definition of "Follow Me" functionality, we want our robots(Pix
 
 The gimbal camear used in this project looks like pictures bellow.
 
+<table  align="center">
+    <tr>
+    <td ><center>
+        <img src="assets/20220114-e0917cd4.png" alt="Real Camera" width="200"/><img src="assets/gimbal-camera.png" alt="Flow Diagram" width="200" />
+    </td ></center>
+    </tr>
+</table>
 
-<center class="half">
-<img src="assets/20220114-e0917cd4.png" alt="Real Camera" width="200"/><img src="assets/gimbal-camera.png" alt="Flow Diagram" width="200" />
-</center>
 
 ## Software Requirements
 1. Pixkit-1.0 ROS Driver
@@ -41,9 +45,14 @@ The gimbal camear used in this project looks like pictures bellow.
 
 ## Detection, Tracking and Visual Control
 
-<center class="half">
-    <img src="assets/20220116-76d60e91.png" width="200"/><img src="assets/20220116-3b5f0f20.png" width="200"/><img src="assets/20220116-67901f3c.png" width="200"/>
-</center>
+<table  align="center">
+    <tr>
+    <td ><center>
+        <img src="assets/20220116-76d60e91.png" width="200"/><img src="assets/20220116-3b5f0f20.png" width="200"/><img src="assets/20220116-67901f3c.png" width="200"/>
+    </td ></center>
+    </tr>
+</table>
+
 
 # Future Work
 In order to empower Pixkit-1.0 with a visual-based tracking and following funcionality, and mainly focus on tracking a pedestrian freely, we can use aforementioned pure visual tracking system which is the first version. In the next stage, I will develop a second version to cover more categories if needed and optimize selected sensors, I plan to change the gimbal camera to a normal RGB camera(FILR/leopard/Sensing) with a low cost. 
